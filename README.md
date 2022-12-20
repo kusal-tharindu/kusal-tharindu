@@ -12,7 +12,7 @@ I am interested in cyber security and network engineering. Also I am Passionate 
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,aws,azure,cloudflare,c,cpp,git,linux,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,aws,azure,cloudflare,c,cpp,git,linux,py&theme=dark)](https://www.dtk2globle.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kusal-tharindu&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>

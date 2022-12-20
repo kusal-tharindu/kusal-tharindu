@@ -23,9 +23,6 @@ I am interested in cyber security and network engineering. Also I am Passionate 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=kusal-tharindu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=kusal-tharindu&icon=0&color=0)](https://visitcount.itsvg.in)
-
   # 💰 You can help me by Donating
 
   <a href="https://www.buymeacoffee.com/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a>
